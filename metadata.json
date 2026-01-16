@@ -1,0 +1,5 @@
+{
+  "name": "AI Novel Reader",
+  "description": "An intelligent novel reader that generates stories on demand. Simply enter a title, and our AI will craft the beginning of your next favorite book, free from ads and distractions.",
+  "requestFramePermissions": []
+}
